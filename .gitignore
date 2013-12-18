@@ -1,8 +1,12 @@
 *.pyc
 
 *.swp
+<<<<<<< HEAD
 
 *.swo
 
 *.swn
 
+=======
+database.sqlite
+>>>>>>> 4534740b7a8a3fcf9e8c4232ae7efecbf5ca005b
